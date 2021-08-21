@@ -11,7 +11,6 @@ Name: Ifti Mustafa"""
 import csv
 import json
 
-
 # Creating a custom dictionary from Airline code -> Airline Name (ie. ADE - Ada Air)
 def read_airlines(filename='airlines.dat'):
     airlines = {}
